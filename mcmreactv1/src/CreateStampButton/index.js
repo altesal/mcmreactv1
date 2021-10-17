@@ -1,16 +1,18 @@
 import react from "react";
 import "./CreateStampButton.css";
 
-function CreateStampButton(){
+function CreateStampButton(props){
 
-    const onClickButton = (msg) => {
-        alert(msg);
+    const onClickButton = () => {
+       props.setOpenModal(prevState => !prevState);
+
+       
     };
 
     return(
         <button 
             className="CreateTodoButton"
-            onClick={() => onClickButton('Aquí se debería abrir el modal')}
+            onClick={onClickButton}
         >
             +
 

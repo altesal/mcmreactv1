@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';   //para páginas webs
 import './index.css';
-import App from './App';
+import App from './App/index.js';
+import reactDom from 'react-dom';
 
 
 ReactDOM.render(

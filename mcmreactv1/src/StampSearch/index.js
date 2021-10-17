@@ -1,7 +1,10 @@
 import React from "react";
 import './StampSearch.css';
+import { StampContext } from "../StampContext";
 
-function StampSearch({searchValue, setSearchValue}){
+function StampSearch(){
+
+    const {searchValue, setSearchValue} = React.useContext(StampContext);
 
     const onSearchValueChange = (event) => {
         console.log(event.target.value);

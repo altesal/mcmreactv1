@@ -1,4 +1,5 @@
 import React from "react";
+import { StampContext } from "../StampContext";
 import "./StampCounter.css";
 
 const estilos = {
@@ -9,10 +10,11 @@ const estilos = {
 
 
 
-function StampCounter({total, collection}) {
-    
+function StampCounter() {
+    const {totalStamps, collectionStamps} = React.useContext(StampContext);
+
     return (
-        <h2 className="StampCounter">En MCM puedes ver {collection} de estos {total} Sellos</h2>
+        <h2 className="StampCounter">En MCM puedes ver {collectionStamps} de estos {totalStamps} Sellos</h2>
     );
 }
 
