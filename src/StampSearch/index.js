@@ -14,7 +14,7 @@ function StampSearch(){
     return[
         <input 
             className="StampSearch" 
-            placeholder="Barcelona"
+            placeholder="Da de alta tus sellos..."
             value={searchValue}
             onChange={onSearchValueChange}
         />,
