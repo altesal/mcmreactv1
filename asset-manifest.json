@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mcmreactv1/mcmreactv1/static/css/main.e241da6a.chunk.css",
-    "main.js": "/mcmreactv1/mcmreactv1/static/js/main.610ce095.chunk.js",
-    "main.js.map": "/mcmreactv1/mcmreactv1/static/js/main.610ce095.chunk.js.map",
-    "runtime-main.js": "/mcmreactv1/mcmreactv1/static/js/runtime-main.b2a1aea4.js",
-    "runtime-main.js.map": "/mcmreactv1/mcmreactv1/static/js/runtime-main.b2a1aea4.js.map",
-    "static/js/2.0ba50d7c.chunk.js": "/mcmreactv1/mcmreactv1/static/js/2.0ba50d7c.chunk.js",
-    "static/js/2.0ba50d7c.chunk.js.map": "/mcmreactv1/mcmreactv1/static/js/2.0ba50d7c.chunk.js.map",
-    "index.html": "/mcmreactv1/mcmreactv1/index.html",
-    "static/css/main.e241da6a.chunk.css.map": "/mcmreactv1/mcmreactv1/static/css/main.e241da6a.chunk.css.map",
-    "static/js/2.0ba50d7c.chunk.js.LICENSE.txt": "/mcmreactv1/mcmreactv1/static/js/2.0ba50d7c.chunk.js.LICENSE.txt"
+    "main.css": "/mcmreactv1/static/css/main.e241da6a.chunk.css",
+    "main.js": "/mcmreactv1/static/js/main.610ce095.chunk.js",
+    "main.js.map": "/mcmreactv1/static/js/main.610ce095.chunk.js.map",
+    "runtime-main.js": "/mcmreactv1/static/js/runtime-main.cfa623fc.js",
+    "runtime-main.js.map": "/mcmreactv1/static/js/runtime-main.cfa623fc.js.map",
+    "static/js/2.0ba50d7c.chunk.js": "/mcmreactv1/static/js/2.0ba50d7c.chunk.js",
+    "static/js/2.0ba50d7c.chunk.js.map": "/mcmreactv1/static/js/2.0ba50d7c.chunk.js.map",
+    "index.html": "/mcmreactv1/index.html",
+    "static/css/main.e241da6a.chunk.css.map": "/mcmreactv1/static/css/main.e241da6a.chunk.css.map",
+    "static/js/2.0ba50d7c.chunk.js.LICENSE.txt": "/mcmreactv1/static/js/2.0ba50d7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2a1aea4.js",
+    "static/js/runtime-main.cfa623fc.js",
     "static/js/2.0ba50d7c.chunk.js",
     "static/css/main.e241da6a.chunk.css",
     "static/js/main.610ce095.chunk.js"
